@@ -1,6 +1,8 @@
 ﻿{
   "version": "1.0.0-*",
-
+  "buildOptions": {
+    "preserveCompilationContext": true
+  },
   "dependencies": {
     "TestLibrary2": "1.0.0-*",
     "Microsoft.Extensions.DependencyModel": "1.0.0",

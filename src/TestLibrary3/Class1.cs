@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.Extensions.DependencyModel;
+using Xunit;
 
 namespace ClassLibrary3
 {
-    using Microsoft.Extensions.DependencyModel;
-    using Xunit;
 
     public class Class1
     {
